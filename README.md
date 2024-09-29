@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AiRBend3r
-- 👀 I’m interested in *chess, 3d, С++*
+- 👀 I’m interested in *chess, 3d, С*
 - 📫 How to reach me *https://t.me/bondarevsergej*
 
 <!---
